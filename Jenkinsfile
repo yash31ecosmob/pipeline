@@ -1,6 +1,6 @@
 #!groovy script
 node {
-def mailaddress = 'yash.d.rathod@gmail.com,manju.pothalappa@ecosmob.com'
+def mailaddress = 'yash.d.rathod@ecosmob.com'
 //def webPath = '/home/docker/insinfinity'
 //def dockerRegistry='dockerregistry.ecosmob.net:5000'
 
